@@ -1,0 +1,19 @@
+{
+	"name": "raspberry pi node server",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"cors": "^2.8.5",
+		"esm": "^3.2.22",
+		"express": "^4.16.4"
+	},
+	"devDependencies": {
+		"eslint": "^5.12.1",
+		"eslint-plugin-babel": "^5.1.0",
+		"eslint-plugin-react": "^7.11.1"
+	}
+}
